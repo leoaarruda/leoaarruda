@@ -15,4 +15,6 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=leoaarruda&layout=compact)](https://github.com/leoaarruda/github-readme-stats)
 
-#### Adoro tecnologia e estou trilhando meu caminho para esse mundo através do desenvolvimento web. <br><br>
+ <br>
+
+#### Adoro tecnologia e estou trilhando meu caminho para esse mundo através do desenvolvimento web.
